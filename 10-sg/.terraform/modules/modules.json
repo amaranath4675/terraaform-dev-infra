@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"sg","Source":"git::https://github.com/amaranath4675/terraform-aws-sg.git?ref=main","Dir":".terraform/modules/sg"}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."}]}
